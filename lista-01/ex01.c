@@ -1,5 +1,3 @@
-# C-facens
- 
 #include <stdio.h>
 #include <stdlib.h>
 
