@@ -3,6 +3,10 @@
 
 int main()
 {
-    /* code */
+    float x;
+    printf("Digite um número: ");
+    scanf("%f", &x);
+    float n = x * 2;
+    printf("O dobro é %6.2f", n);
     return 0;
 }
