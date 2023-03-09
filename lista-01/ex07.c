@@ -1,4 +1,4 @@
-// Receber  uma  temperatura  em  Fahrenheit  e  convertê-la  para  Celsius 
+// Receber  uma  temperatura  em  Fahrenheit  e  convert?-la  para  Celsius 
 // através  da  seguinte  fórmula:  Celsius  =  (Fahrenheit  -  32)  /  1.8.  Exibir  o 
 // valor em Celsius. 
 
